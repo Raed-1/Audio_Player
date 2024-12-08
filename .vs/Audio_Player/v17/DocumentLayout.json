@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\W\\source\\repos\\Audio_Player\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4D082D4B-8A1A-442D-B2E5-B8FD6160D1A4}|Audio_Player.vcxproj|C:\\Users\\W\\source\\repos\\Audio_Player\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{4D082D4B-8A1A-442D-B2E5-B8FD6160D1A4}|Audio_Player.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{4D082D4B-8A1A-442D-B2E5-B8FD6160D1A4}|Audio_Player.vcxproj|C:\\Users\\W\\source\\repos\\Audio_Player\\Node.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4D082D4B-8A1A-442D-B2E5-B8FD6160D1A4}|Audio_Player.vcxproj|solutionrelative:Node.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4D082D4B-8A1A-442D-B2E5-B8FD6160D1A4}|Audio_Player.vcxproj|C:\\Users\\W\\source\\repos\\Audio_Player\\Playlist.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{4D082D4B-8A1A-442D-B2E5-B8FD6160D1A4}|Audio_Player.vcxproj|solutionrelative:Playlist.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4D082D4B-8A1A-442D-B2E5-B8FD6160D1A4}|Audio_Player.vcxproj|C:\\Users\\W\\source\\repos\\Audio_Player\\Node.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{4D082D4B-8A1A-442D-B2E5-B8FD6160D1A4}|Audio_Player.vcxproj|solutionrelative:Node.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{4D082D4B-8A1A-442D-B2E5-B8FD6160D1A4}|Audio_Player.vcxproj|C:\\Users\\W\\source\\repos\\Audio_Player\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4D082D4B-8A1A-442D-B2E5-B8FD6160D1A4}|Audio_Player.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D082D4B-8A1A-442D-B2E5-B8FD6160D1A4}|Audio_Player.vcxproj|C:\\Users\\W\\source\\repos\\Audio_Player\\Surah.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4D082D4B-8A1A-442D-B2E5-B8FD6160D1A4}|Audio_Player.vcxproj|solutionrelative:Surah.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,11 +26,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
+              "Title": "Surah.cpp",
+              "DocumentMoniker": "C:\\Users\\W\\source\\repos\\Audio_Player\\Surah.cpp",
+              "RelativeDocumentMoniker": "Surah.cpp",
+              "ToolTip": "C:\\Users\\W\\source\\repos\\Audio_Player\\Surah.cpp",
+              "RelativeToolTip": "Surah.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-08T16:25:37.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\Users\\W\\source\\repos\\Audio_Player\\main.cpp",
               "RelativeDocumentMoniker": "main.cpp",
@@ -45,20 +62,20 @@
               "RelativeDocumentMoniker": "Playlist.cpp",
               "ToolTip": "C:\\Users\\W\\source\\repos\\Audio_Player\\Playlist.cpp",
               "RelativeToolTip": "Playlist.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAAAAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABYAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-12-02T06:46:51.25Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Node.h",
               "DocumentMoniker": "C:\\Users\\W\\source\\repos\\Audio_Player\\Node.h",
               "RelativeDocumentMoniker": "Node.h",
               "ToolTip": "C:\\Users\\W\\source\\repos\\Audio_Player\\Node.h",
               "RelativeToolTip": "Node.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAMAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-12-02T06:39:14.46Z",
               "EditorCaption": ""

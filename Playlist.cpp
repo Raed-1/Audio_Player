@@ -1,13 +1,13 @@
 #include<iostream>
 #include"Node.h"
 using namespace std;
-
+template<class T>
 class Playlist
 {
 
 private:
-	Node* head;
-	Node* tail;
+	Node<T> *head,  *tail, *current;
+	
 
 	bool isEmpty()const
 	{
@@ -15,11 +15,11 @@ private:
 	}
 	
 public:
-	Playlist() :head(nullptr), tail(nullptr) {}
+	Playlist() :head(nullptr), tail(nullptr),current(nullptr) {}
 
-	void add_path(const string& path)
+	void add_playlist(const T& ppath)
 	{
-		Node* newnode = new Node{path,nullptr,nullptr};
+		Node* newnode = new Node(ppath);
 		if (isEmpty())
 		{
 			head = tail = newnode;

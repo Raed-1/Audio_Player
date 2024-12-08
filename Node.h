@@ -1,11 +1,15 @@
 #pragma once
 #include<string>
 
-
+template<class T>
 struct Node
 {
-	std::string path;
+	T data;
 	Node* next;
 	Node* prev;
+
+	//Construtor 
+
+	Node(const T& value) :data(value), next(nullptr), prev(nullptr) {};
 
 };
